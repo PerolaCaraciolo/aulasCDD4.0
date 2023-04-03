@@ -1,5 +1,7 @@
 # Problema 02:
 
+# Crie um programa para mostrar o nome de três pessoas.
+
 nome1 = "Um da Silva Sauro"
 nome2 = "Dois da Silva Sauro"
 nome3 = "Três da Silva Sauro"
