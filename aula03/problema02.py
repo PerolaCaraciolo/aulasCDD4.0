@@ -11,5 +11,5 @@ media = (nota1 + nota2 + nota3)/3
 print(f"A média foi: {media}")
 if media >= 7:
     print("== Aprovado ==")
-else:
+else:                    # O "ELSE" sempre vem sem condições junto dele porque já entende como "o que sobra".
     print("== Reprovado ==")
