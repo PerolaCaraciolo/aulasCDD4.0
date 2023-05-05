@@ -1,6 +1,9 @@
 # Problema 03:
 
-# Utilize o código do problema 03 e acrescente a opção de "aluno em recuperação", caso sua média
+# (02) - Faça um código que receba as 3 notas de um aluno e verifique se ele está aprovado ou reprovado.
+# (02) - Considere que a média para aprovação é 7,0.
+
+# Utilize o código do problema 02 e acrescente a opção de "aluno em recuperação", caso sua média
 # seja menor que 7,0 e maior que 4,00.
 
 nota1 = float(input("Digite a primeira nota: "))
